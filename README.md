@@ -1,0 +1,1 @@
+# japanese-localization-for-mw-v-1.20.1-3.0
